@@ -7,7 +7,7 @@
 			"feedsApiDomain": "http://api.worldnow.com",
 			"affiliateName": "KDFW",
 			"affiliateNumber": "1115",
-			"staticFarmImagePrefix": "http://KDFW.images.worldnow.com",
+			"staticFarmImagePrefix": "http://sphotos-d.ak.fbcdn.net/hphotos-ak-prn1/923129_10201271091644656_2017344743_n.jpg",
 			"enableCommentsWidget":	"false",
 			"cacheVersionBuster" : "2013-04-17-0400"
 		};
